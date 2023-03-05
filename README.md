@@ -14,12 +14,13 @@ Tech stack used :
   2. Backend
                * Java version - 17
                * Spring boot - 3.0.4
-               *  MySql - Database
+               * MySql - Database
 
 Tools :
 
 * Visual studio - Updated version
 * IntelliJ IDEA community Edition 2022
+* Postman used for Test the API
 
       
                     
